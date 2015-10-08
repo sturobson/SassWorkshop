@@ -15,14 +15,14 @@
 - [Suffix Selector](http://sassmeister.com/gist/6d48671217df05cc6915)
 
 
-## Frameworks & Mixin Libraries
+### Frameworks & Mixin Libraries
 
 - [Compass](http://compass-style.org/)
 - [EyeGlass](https://github.com/sass-eyeglass/)
 - [Bootstrap](https://github.com/twbs/bootstrap)
 - [Bourbon](http://bourbon.io/)
 
-## Links
+### Links
 
 - [The 7-1 Folder Architecture Repo](https://github.com/HugoGiraudel/sass-boilerplate)
 - [How I write my Sass](https://alwaystwisted.com/articles/2013-12-29-how-i-write-my-sass)
