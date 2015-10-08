@@ -29,3 +29,5 @@
 - [How I write my Sass](https://alwaystwisted.com/articles/2013-12-29-how-i-write-my-sass)
 - [Sass Styleguide](https://css-tricks.com/sass-style-guide/)
 - [Sass Guidelines](http://sass-guidelin.es/)
+- [Resources Link-o-rama](http://alwaystwisted.com/Sass-Workshop-Resources.html)
+- [Sass News](http://www.SassNews.com)
