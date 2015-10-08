@@ -24,6 +24,7 @@
 
 ### Links
 
+- [SimpleSass Gulp Task](https://github.com/sturobson/simpleSass)
 - [The 7-1 Folder Architecture Repo](https://github.com/HugoGiraudel/sass-boilerplate)
 - [How I write my Sass](https://alwaystwisted.com/articles/2013-12-29-how-i-write-my-sass)
 - [Sass Styleguide](https://css-tricks.com/sass-style-guide/)
